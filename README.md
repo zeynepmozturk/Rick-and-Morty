@@ -1,16 +1,21 @@
-# rickandmorty
+# 📱 My Flutter Project
 
-A new Flutter project.
+Bu proje, [YouTube eğitim serisi](https://www.youtube.com/playlist?list=PL_6SFaIEF8jGgAEaZVoIJEk8UH5h_Tom2) takip edilerek öğrenme amaçlı geliştirilmiştir. Öğrendiğim konuları pekiştirmek için oluşturulmuştur.
 
-## Getting Started
+## ✨ Özellikler
+- Flutter kullanarak temel yapı taşlarıyla oluşturuldu  
+- Widget’lar, state yönetimi, sayfa geçişleri gibi kavramları içeriyor  
+- Tasarımı basit ve anlaşılır tutmaya çalıştım  
 
-This project is a starting point for a Flutter application.
+## ℹ️ Notlar
+- Bu proje ticari amaçlı değildir  
+- Eğitimde kullanılan kodlardan esinlenilmiştir   
 
-A few resources to get you started if this is your first Flutter project:
+## 🔗 Kaynaklar
+- Eğitim Serisi: [YouTube Playlist](https://www.youtube.com/playlist?list=PL_6SFaIEF8jGgAEaZVoIJEk8UH5h_Tom2)  
+- Bu projeye ilham veren repo: [ruwiss/flutter_rickandmorty](https://github.com/ruwiss/flutter_rickandmorty)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Teşekkür ederim! 🙏**
+
